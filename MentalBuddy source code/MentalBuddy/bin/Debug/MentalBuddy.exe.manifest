@@ -1,0 +1,515 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="MentalBuddy.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="MentalBuddy" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="MentalBuddy.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MentalBuddy.exe" size="370136">
+      <assemblyIdentity name="MentalBuddy" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>KpKt0ndbNb8A3M9SnpXQtNI8YmfCG0Fh4hL70JNFrs4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MentalBuddyAPI.dll" size="6656">
+      <assemblyIdentity name="MentalBuddyAPI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ccD+A42/fQ9EdJsIPEX8qTl9pIGwlRDC4at+g8JiEvY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MentalBuddyDB.dll" size="13312">
+      <assemblyIdentity name="MentalBuddyDB" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Ut3YGTOoP2fFDgXv6UYMSRbBwkF6d2yHehZfkqZDvhs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RestSharp.dll" size="189440">
+      <assemblyIdentity name="RestSharp" version="106.6.7.0" publicKeyToken="598062E77F915F75" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>bLRWE71J/T5s2z5Z95CQrEdf+UX5ftCNWmNiq/pAd5A=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="images\Andy Chandra, S.Psi, M.Psi1. Andy Chandra.jpg" size="11013">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lwdSGN9LjvnicDHo1oDvTSFuQvXHezNyGQAiBYpNDUs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\dr. Ade Irawati, Sp.KJ6. Ade Irawati.jpg" size="8756">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>p+p44+bX6M6ZqGVO9UTSaVFSxVJc622/LUZKxry5UGs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\dr. Ade Kurnia Surawijaya, Sp.KJ10. Ade Kurnia.jpg" size="5322">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Kaha84hQr9EYjFTS0jLP/W+AF8yz8bVNVcHHtvqvvMg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\dr. Agus Japari, Sp.KJ, M.Kes3. Agus Japari.jpg" size="4687">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>U/v61mWGuOByPw5WqSwtmgI2m3tFCTl55A02hjVj8PA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\dr. Anastasia Venny Yustiana, Sp.KJ9. Anastasia Venny.jpg" size="17756">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>iXCYM90sVEx0zKQUIlfvF4TLz1QfjAs1gK7z3Ky52zE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Dr. dra. Hastaning Sakti, M.Kes, Psikolog9. Hastaning Sakti.jpg" size="7788">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Vh+hAbyOUjXLeSwI6omEPl8wSpK9rFRll8teEFEoncA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Dr. dra. Hastaning Sakti, M.Kes, PsikologDr. dra. Hastaning Sakti, M.Kes, Psikolog9. Hastaning Sakti.jpg" size="7788">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Vh+hAbyOUjXLeSwI6omEPl8wSpK9rFRll8teEFEoncA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\dr. Eva Suryani, Sp.KJ7. Eva Suryani.jpg" size="6685">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>7hHgNp6pYqdt9/Hh8pfIFJ5vUsScQqvuajbpx//VQ64=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\dr. Hariwibowo Gunadi, Sp.KJ, MHSA2. Hariwibowo Gunadi.jpg" size="9061">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1Hm4FDHsYrcUV2gW/fW6yu8ZhqzqMGTojcWvzAoehcg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\dr. I Gde Yudhi Kurniawan, SpKJ4. I Gde Yudhi.jpg" size="7175">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>mVYeD82I1FMmpVs9dndHxNmyVm6YutclGQCpAkt9X+Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\dr. Jimmi Marliston P. Aritorang, Sp.KJ8. Jimmi Marliston.jpg" size="2293">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>eX1MsK7fUoCfaI/gzh0f4md0GdTcpVvXikgDd+JDrQg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\dr. Laela Dian Kurniasih, Sp.KJ5. Laela Dian.jpg" size="6357">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>nLR6ILzWAI53I6i5eHHIY4xIR/b2AdR2gwdBgmmaw64=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\dr. Mustafa Mahmud Amin, M. Ked, KJ, Msc, Sp. KJ1. Mustafa Mahmud Amin.jpg" size="10763">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Uk+wJmWIbC/yH0FBAac4Xtw6xGEvZipMU/9YlK9LDK0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\dr. Mutiara Anissa, Sp.KJ5. Mutiara Annisa.jpg" size="5560">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>D7DsdL7mZK3SUs7loRg+qHdb8Hz500Actq62DHBv8h0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\dr. Sherly Limantara, Sp.KJ2. Sherly Limantara.jpg" size="6931">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>qttM2tYNjd7JAANCaTBVuroyMVfgxwOBK9k4ErR7r+I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\dr. Surjo Dharmono Tanuredjo, Sp.KJ1. Surjo Dharmono.jpg" size="5796">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>mRSkynTZnkfGwjKXtD+mxZOkxE3bXCwMstg6Q9CtDoI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\dr. Tribowo Tuahta Ginting Sugihen, Sp.KJ3. Tribowo Tuahta.jpg" size="14712">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R81nUXlUmVQguw44eIJuHYVZE6/gQYn7K5wHT4CZD1s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\dr. Yenny Siti Yanti Sinambela, Sp.KJ4. Yenny Siti.jpg" size="21021">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6aHwep+Clqd4TqMjKq2e8VOcA+E2fvuWDp0MRpjFDiE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\dra. Destryna Ninggolan, M.A5. Destryna Ninggolan.jpg" size="5492">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0SvjWoKp1N+dwCXhn6o3XUVGaRKxYGuufI6dxS/zv2Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\dra. Destryna Ninggolan, M.Adra. Destryna Ninggolan, M.A5. Destryna Ninggolan.jpg" size="5492">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0SvjWoKp1N+dwCXhn6o3XUVGaRKxYGuufI6dxS/zv2Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Fika Frahesti Yunita, M.Psi8. Fika Frahesti.jpg" size="277897">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>eZZpuAPsZdMuMiAfhs2e5ayf/CTEMYnR9KzOMZk/JF0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Fika Frahesti Yunita, M.PsiFika Frahesti Yunita, M.Psi8. Fika Frahesti.jpg" size="277897">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>eZZpuAPsZdMuMiAfhs2e5ayf/CTEMYnR9KzOMZk/JF0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Ghea Amalia Arpandy, M.Psi, Psikolog2. Ghea Amalia.jpg" size="11803">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>GUI5aJJ/QmhcMF9J+U8JE4PHOf2+DAdLyShtGiEr3pQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\gigidownload.jpg" size="1533">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5/zUWdc2KG06Dh5jbIQlcs7x45N9pmfAi0dz+iNlU3E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Lucia Maria K, Psi6. Lucia Maria.jpg" size="4477">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lDkSgnKvNpw25R+BzBKDTTKzrDgPE1wa5pVhzRaMhGc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Lucia Maria K, PsiLucia Maria K, Psi6. Lucia Maria.jpg" size="4477">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lDkSgnKvNpw25R+BzBKDTTKzrDgPE1wa5pVhzRaMhGc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Lucia Maria K, PsiLucia Maria K, PsiLucia Maria K, Psi6. Lucia Maria.jpg" size="4477">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lDkSgnKvNpw25R+BzBKDTTKzrDgPE1wa5pVhzRaMhGc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Margaretha Nababan, M.Psi1.jpg" size="9907">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lKUqi8DKdM5i0kuB0LgdVjt02YZh7w0AjyDuPey8LM0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Margaretha Nababan, M.PsiMargaretha Nababan, M.Psi1.jpg" size="9907">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lKUqi8DKdM5i0kuB0LgdVjt02YZh7w0AjyDuPey8LM0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Margaretha Nababan, M.PsiMargaretha Nababan, M.PsiMargaretha Nababan, M.Psi1.jpg" size="9907">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lKUqi8DKdM5i0kuB0LgdVjt02YZh7w0AjyDuPey8LM0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Margaretha Nababan, M.PsiMargaretha Nababan, M.PsiMargaretha Nababan, M.PsiMargaretha Nababan, M.Psi1.jpg" size="9907">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lKUqi8DKdM5i0kuB0LgdVjt02YZh7w0AjyDuPey8LM0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Melina Dian Kusumadewi, S.Psi., M.A10. Melina Dian.jpg" size="5513">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xEfpXfNEyNX9aSUl70TasF2jpvc3TqHhLou86kuIf/Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Melina Dian Kusumadewi, S.Psi., M.AMelina Dian Kusumadewi, S.Psi., M.A10. Melina Dian.jpg" size="5513">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xEfpXfNEyNX9aSUl70TasF2jpvc3TqHhLou86kuIf/Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Mikaela Berlliyana A, S.Psi, M.Psi3.jpg" size="9099">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9TU5z/bJaPfBgBMEldQblA03vcNYXiDs2DX4QLsSmxg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Mikaela Berlliyana A, S.Psi, M.PsiMikaela Berlliyana A, S.Psi, M.Psi3.jpg" size="9099">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9TU5z/bJaPfBgBMEldQblA03vcNYXiDs2DX4QLsSmxg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Mikaela Berlliyana A, S.Psi, M.PsiMikaela Berlliyana A, S.Psi, M.PsiMikaela Berlliyana A, S.Psi, M.Psi3.jpg" size="9099">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9TU5z/bJaPfBgBMEldQblA03vcNYXiDs2DX4QLsSmxg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Natalia Damayanti, S.Psi, M. Psi.4. Natalia Damayanti.jpg" size="10957">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9gzx8mHQUdZMUnRS88G43l/qe32o6yNN56rfXcpHfFA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Nidya Dwika Puteri, M.Psi, Psikolog4. Nidya Dwika.jpg" size="5711">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>s3caaJea9NnVy5Y77rFGAapnnrcvn5DCseLUeVPN+wU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Nidya Dwika Puteri, M.Psi, PsikologNidya Dwika Puteri, M.Psi, Psikolog4. Nidya Dwika.jpg" size="5711">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>s3caaJea9NnVy5Y77rFGAapnnrcvn5DCseLUeVPN+wU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Pricyla Trimeilinda, P.Psi7. Pricyla Trimeilinda.jpg" size="5387">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>g9yAL1lO179SN/5cG1vU+9I7VuixWkNAJZzvaTmIBDE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Pricyla Trimeilinda, P.PsiPricyla Trimeilinda, P.Psi7. Pricyla Trimeilinda.jpg" size="5387">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>g9yAL1lO179SN/5cG1vU+9I7VuixWkNAJZzvaTmIBDE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Riko Jayasaputra, M.Psi, Psi3. Riko Jayasaputra.jpg" size="13350">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>WSL1E/vAFKZP7xRBBXFvtFBqRHYlfUWhh6fzTatjnys=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Sarwendah Indrarani, S.Psi., M.Psi., Psikologi5. Sarwendah Indrarani.jpg" size="10253">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>WjCIPiNE1hG/CuJe/sFHUV8AgcyTHUqvwf3f2zoVjQw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Silvany Dianita, M.Psi2.jpg" size="7916">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>3yEOTEVi6GQ9urKkD18EGo8MNY1Ii0g85mVn51KCCyc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Silvany Dianita, M.PsiSilvany Dianita, M.Psi2.jpg" size="7916">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>3yEOTEVi6GQ9urKkD18EGo8MNY1Ii0g85mVn51KCCyc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mentalbuddy.accdb" size="1634304">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>m4J57uAjHOf0h+INhSRFEVUSEvGOqP92138ns8f4stQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="MentalBuddy.exe.config" size="480">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Zdu20INrfAMFYeS7WRlkX1GbvHYm3MWB3cGL/3sUUoE=</dsig:DigestValue>
+    </hash>
+  </file>
+</asmv1:assembly>

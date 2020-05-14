@@ -1,0 +1,305 @@
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.exe.config
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.exe
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.pdb
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Login.resources
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Properties.Resources.resources
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.exe
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.pdb
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Awal.resources
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CariJadwal.resources
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJLokasi.resources
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJNama.resources
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJProfesi.resources
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.EditPraktik.resources
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscChosen.resources
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscShowComment.resources
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscMenu.resources
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscToComment.resources
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.HomeCapas.resources
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.HomePsi.resources
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Komunitas.resources
+C:\Users\ASUS\source\repos\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.ProfilPsi.resources
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csprojAssemblyReference.cache
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Awal.resources
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CariJadwal.resources
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJLokasi.resources
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJNama.resources
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJProfesi.resources
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.EditPraktik.resources
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscChosen.resources
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscMenuCapas.resources
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscPost.resources
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscMenuPsi.resources
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.HomeCapas.resources
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.HomePsi.resources
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Komunitas.resources
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.KomunitasShow.resources
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Login.resources
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.ProfilPsi.resources
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Properties.Resources.resources
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.GenerateResource.cache
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.exe
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.pdb
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.exe.config
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.exe
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.pdb
+D:\move download (1)\Downloads\MentalBuddy (1)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscChoosenPsi.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.exe.config
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.exe
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.pdb
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csprojAssemblyReference.cache
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Awal.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CariJadwal.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJLokasi.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJNama.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJProfesi.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.EditPraktik.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscChoosenPsi.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscChosen.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscMenuCapas.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscPost.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscMenuPsi.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.HomeCapas.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.HomePsi.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Komunitas.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.KomunitasShow.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Login.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.ProfilPsi.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Properties.Resources.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.GenerateResource.cache
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.CoreCompileInputs.cache
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.exe
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.pdb
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Debug\mentalbuddy.accdb
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyDB.dll
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyDB.pdb
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.CopyComplete
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyDB.dll.config
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyAPI.dll
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Debug\RestSharp.dll
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyAPI.pdb
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Debug\RestSharp.xml
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.exe.config
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.exe
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.pdb
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyAPI.dll
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyDB.dll
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Debug\RestSharp.dll
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyAPI.pdb
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyDB.pdb
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyDB.dll.config
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Debug\RestSharp.xml
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csprojAssemblyReference.cache
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Awal.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CariJadwal.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJLokasi.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJNama.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJProfesi.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.EditPraktik.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscChoosenPsi.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscChosen.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscMenuCapas.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscPost.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscMenuPsi.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.HomeCapas.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.HomePsi.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Komunitas.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.KomunitasShow.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Login.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.ProfilPsi.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Properties.Resources.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.GenerateResource.cache
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.CopyComplete
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.exe
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.pdb
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.exe.config
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.exe
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.pdb
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyAPI.dll
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyDB.dll
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\bin\Debug\RestSharp.dll
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyAPI.pdb
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyDB.pdb
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyDB.dll.config
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\bin\Debug\RestSharp.xml
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csprojAssemblyReference.cache
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Awal.resources
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CariJadwal.resources
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJLokasi.resources
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJNama.resources
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJProfesi.resources
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.EditPraktik.resources
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscChoosenPsi.resources
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscChosen.resources
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscMenuCapas.resources
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscPost.resources
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscMenuPsi.resources
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.HomeCapas.resources
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.HomePsi.resources
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Komunitas.resources
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.KomunitasShow.resources
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Login.resources
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.ProfilPsi.resources
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Properties.Resources.resources
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.GenerateResource.cache
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.CopyComplete
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.exe
+E:\Kuliah\Semester 2\Pemrograman Berbasis Objek\Teams\3\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.pdb
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.exe.config
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.exe
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.pdb
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyAPI.dll
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyDB.dll
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\bin\Debug\RestSharp.dll
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyAPI.pdb
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyDB.pdb
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyDB.dll.config
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\bin\Debug\RestSharp.xml
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csprojAssemblyReference.cache
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Awal.resources
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CariJadwal.resources
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJLokasi.resources
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJNama.resources
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJProfesi.resources
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.EditPraktik.resources
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscChoosenPsi.resources
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscChosen.resources
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscMenuCapas.resources
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscPost.resources
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscMenuPsi.resources
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.HomeCapas.resources
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.HomePsi.resources
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Komunitas.resources
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.KomunitasShow.resources
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Login.resources
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.ProfilPsi.resources
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Properties.Resources.resources
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.GenerateResource.cache
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.CoreCompileInputs.cache
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.CopyComplete
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.exe
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.pdb
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.exe.config
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.exe.manifest
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.application
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.exe
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.pdb
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyAPI.dll
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyDB.dll
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\bin\Debug\RestSharp.dll
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyAPI.pdb
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyDB.pdb
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyDB.dll.config
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\bin\Debug\RestSharp.xml
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csprojAssemblyReference.cache
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Awal.resources
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CariJadwal.resources
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJLokasi.resources
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJNama.resources
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJProfesi.resources
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.EditPraktik.resources
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscChoosenPsi.resources
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscChosen.resources
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscMenuCapas.resources
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscPost.resources
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscMenuPsi.resources
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.HomeCapas.resources
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.HomePsi.resources
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Komunitas.resources
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.KomunitasShow.resources
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Login.resources
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.ProfilPsi.resources
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Properties.Resources.resources
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.GenerateResource.cache
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.exe.manifest
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.application
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.CopyComplete
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.exe
+D:\move download (1)\Downloads\MentalBuddy-imagebug-fix\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.pdb
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.exe.config
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.exe.manifest
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.application
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.exe
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddy.pdb
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyAPI.dll
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyDB.dll
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\RestSharp.dll
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyAPI.pdb
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyDB.pdb
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\MentalBuddyDB.dll.config
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\RestSharp.xml
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csprojAssemblyReference.cache
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Awal.resources
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CariJadwal.resources
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJLokasi.resources
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJNama.resources
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.CJProfesi.resources
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.EditPraktik.resources
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscChoosenPsi.resources
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscChosen.resources
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscMenuCapas.resources
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscPost.resources
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.GenDiscMenuPsi.resources
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.HomeCapas.resources
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.HomePsi.resources
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Komunitas.resources
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.KomunitasShow.resources
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Login.resources
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.ProfilPsi.resources
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.Properties.Resources.resources
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.GenerateResource.cache
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.CoreCompileInputs.cache
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.exe.manifest
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.application
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.csproj.CopyComplete
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.exe
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\obj\Debug\MentalBuddy.pdb
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Andy Chandra, S.Psi, M.Psi1. Andy Chandra.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\dr. Ade Irawati, Sp.KJ6. Ade Irawati.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\dr. Ade Kurnia Surawijaya, Sp.KJ10. Ade Kurnia.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\dr. Agus Japari, Sp.KJ, M.Kes3. Agus Japari.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\dr. Anastasia Venny Yustiana, Sp.KJ9. Anastasia Venny.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Dr. dra. Hastaning Sakti, M.Kes, Psikolog9. Hastaning Sakti.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Dr. dra. Hastaning Sakti, M.Kes, PsikologDr. dra. Hastaning Sakti, M.Kes, Psikolog9. Hastaning Sakti.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\dr. Eva Suryani, Sp.KJ7. Eva Suryani.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\dr. Hariwibowo Gunadi, Sp.KJ, MHSA2. Hariwibowo Gunadi.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\dr. I Gde Yudhi Kurniawan, SpKJ4. I Gde Yudhi.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\dr. Jimmi Marliston P. Aritorang, Sp.KJ8. Jimmi Marliston.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\dr. Laela Dian Kurniasih, Sp.KJ5. Laela Dian.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\dr. Mustafa Mahmud Amin, M. Ked, KJ, Msc, Sp. KJ1. Mustafa Mahmud Amin.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\dr. Mutiara Anissa, Sp.KJ5. Mutiara Annisa.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\dr. Sherly Limantara, Sp.KJ2. Sherly Limantara.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\dr. Surjo Dharmono Tanuredjo, Sp.KJ1. Surjo Dharmono.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\dr. Tribowo Tuahta Ginting Sugihen, Sp.KJ3. Tribowo Tuahta.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\dr. Yenny Siti Yanti Sinambela, Sp.KJ4. Yenny Siti.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\dra. Destryna Ninggolan, M.A5. Destryna Ninggolan.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\dra. Destryna Ninggolan, M.Adra. Destryna Ninggolan, M.A5. Destryna Ninggolan.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Fika Frahesti Yunita, M.Psi8. Fika Frahesti.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Fika Frahesti Yunita, M.PsiFika Frahesti Yunita, M.Psi8. Fika Frahesti.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Ghea Amalia Arpandy, M.Psi, Psikolog2. Ghea Amalia.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\gigidownload.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Lucia Maria K, Psi6. Lucia Maria.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Lucia Maria K, PsiLucia Maria K, Psi6. Lucia Maria.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Lucia Maria K, PsiLucia Maria K, PsiLucia Maria K, Psi6. Lucia Maria.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Margaretha Nababan, M.Psi1.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Margaretha Nababan, M.PsiMargaretha Nababan, M.Psi1.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Margaretha Nababan, M.PsiMargaretha Nababan, M.PsiMargaretha Nababan, M.Psi1.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Margaretha Nababan, M.PsiMargaretha Nababan, M.PsiMargaretha Nababan, M.PsiMargaretha Nababan, M.Psi1.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Melina Dian Kusumadewi, S.Psi., M.A10. Melina Dian.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Melina Dian Kusumadewi, S.Psi., M.AMelina Dian Kusumadewi, S.Psi., M.A10. Melina Dian.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Mikaela Berlliyana A, S.Psi, M.Psi3.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Mikaela Berlliyana A, S.Psi, M.PsiMikaela Berlliyana A, S.Psi, M.Psi3.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Mikaela Berlliyana A, S.Psi, M.PsiMikaela Berlliyana A, S.Psi, M.PsiMikaela Berlliyana A, S.Psi, M.Psi3.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Natalia Damayanti, S.Psi, M. Psi.4. Natalia Damayanti.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Nidya Dwika Puteri, M.Psi, Psikolog4. Nidya Dwika.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Nidya Dwika Puteri, M.Psi, PsikologNidya Dwika Puteri, M.Psi, Psikolog4. Nidya Dwika.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Pricyla Trimeilinda, P.Psi7. Pricyla Trimeilinda.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Pricyla Trimeilinda, P.PsiPricyla Trimeilinda, P.Psi7. Pricyla Trimeilinda.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Riko Jayasaputra, M.Psi, Psi3. Riko Jayasaputra.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Sarwendah Indrarani, S.Psi., M.Psi., Psikologi5. Sarwendah Indrarani.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Silvany Dianita, M.Psi2.jpg
+C:\Users\mylin\Downloads\MentalBuddy (2)\MentalBuddy\MentalBuddy\bin\Debug\images\Silvany Dianita, M.PsiSilvany Dianita, M.Psi2.jpg

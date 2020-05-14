@@ -1,0 +1,32 @@
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddyDB\bin\Debug\MentalBuddyDB.dll
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddyDB\bin\Debug\MentalBuddyDB.pdb
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddyDB\obj\Debug\MentalBuddyDB.csprojAssemblyReference.cache
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddyDB\obj\Debug\MentalBuddyDB.csproj.CoreCompileInputs.cache
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddyDB\obj\Debug\MentalBuddyDB.dll
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddyDB\obj\Debug\MentalBuddyDB.pdb
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddyDB\bin\Debug\MentalBuddyDB.dll.config
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddyDB\bin\Debug\MentalBuddyDB.dll.config
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddyDB\bin\Debug\MentalBuddyDB.dll
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddyDB\bin\Debug\MentalBuddyDB.pdb
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddyDB\obj\Debug\MentalBuddyDB.csprojAssemblyReference.cache
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddyDB\obj\Debug\MentalBuddyDB.dll
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddyDB\obj\Debug\MentalBuddyDB.pdb
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddyDB\bin\Debug\MentalBuddyDB.dll.config
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddyDB\bin\Debug\MentalBuddyDB.dll
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddyDB\bin\Debug\MentalBuddyDB.pdb
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddyDB\obj\Debug\MentalBuddyDB.csprojAssemblyReference.cache
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddyDB\obj\Debug\MentalBuddyDB.dll
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddyDB\obj\Debug\MentalBuddyDB.pdb
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddyDB\bin\Debug\MentalBuddyDB.dll.config
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddyDB\bin\Debug\MentalBuddyDB.dll
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddyDB\bin\Debug\MentalBuddyDB.pdb
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddyDB\obj\Debug\MentalBuddyDB.csprojAssemblyReference.cache
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddyDB\obj\Debug\MentalBuddyDB.dll
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddyDB\obj\Debug\MentalBuddyDB.pdb
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddyDB\bin\Debug\MentalBuddyDB.dll.config
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddyDB\bin\Debug\MentalBuddyDB.dll
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddyDB\bin\Debug\MentalBuddyDB.pdb
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddyDB\obj\Debug\MentalBuddyDB.csprojAssemblyReference.cache
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddyDB\obj\Debug\MentalBuddyDB.csproj.CoreCompileInputs.cache
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddyDB\obj\Debug\MentalBuddyDB.dll
+C:\Users\mylin\Downloads\MentalBuddy_Fix\MentalBuddy\MentalBuddyDB\obj\Debug\MentalBuddyDB.pdb

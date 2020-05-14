@@ -1,0 +1,136 @@
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\mentalbuddy.accdb
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\MentalBuddy.exe.config
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\MentalBuddy.exe
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\MentalBuddy.pdb
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyAPI.dll
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyDB.dll
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\RestSharp.dll
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyAPI.pdb
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyDB.pdb
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyDB.dll.config
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\RestSharp.xml
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.csprojAssemblyReference.cache
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.Awal.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.CariJadwal.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.CJLokasi.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.CJNama.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.CJProfesi.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.EditPraktik.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscChoosenPsi.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscChosen.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscMenuCapas.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscPost.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscMenuPsi.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.HomeCapas.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.HomePsi.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.Komunitas.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.KomunitasShow.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.Login.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.ProfilPsi.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.Properties.Resources.resources
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.csproj.GenerateResource.cache
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.csproj.CoreCompileInputs.cache
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.csproj.CopyComplete
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.exe
+C:\Users\mylin\Downloads\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.pdb
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\mentalbuddy.accdb
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\MentalBuddy.exe.config
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\MentalBuddy.exe
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\MentalBuddy.pdb
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyAPI.dll
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyDB.dll
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\RestSharp.dll
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyAPI.pdb
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyDB.pdb
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyDB.dll.config
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\bin\Release\RestSharp.xml
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.csprojAssemblyReference.cache
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.Awal.resources
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.CariJadwal.resources
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.CJLokasi.resources
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.CJNama.resources
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.CJProfesi.resources
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.EditPraktik.resources
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscChoosenPsi.resources
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscChosen.resources
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscMenuCapas.resources
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscPost.resources
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscMenuPsi.resources
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.HomeCapas.resources
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.HomePsi.resources
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.Komunitas.resources
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.KomunitasShow.resources
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.Login.resources
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.ProfilPsi.resources
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.Properties.Resources.resources
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.csproj.GenerateResource.cache
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.csproj.CopyComplete
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.exe
+D:\PBO\MentalBuddy\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.pdb
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\bin\Release\mentalbuddy.accdb
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\bin\Release\MentalBuddy.exe.config
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\bin\Release\MentalBuddy.exe
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\bin\Release\MentalBuddy.pdb
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyAPI.dll
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyDB.dll
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\bin\Release\RestSharp.dll
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyAPI.pdb
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyDB.pdb
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyDB.dll.config
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\bin\Release\RestSharp.xml
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.csprojAssemblyReference.cache
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.Awal.resources
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.CariJadwal.resources
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.CJLokasi.resources
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.CJNama.resources
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.CJProfesi.resources
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.EditPraktik.resources
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscChoosenPsi.resources
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscChosen.resources
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscMenuCapas.resources
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscPost.resources
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscMenuPsi.resources
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.HomeCapas.resources
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.HomePsi.resources
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.Komunitas.resources
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.KomunitasShow.resources
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.Login.resources
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.ProfilPsi.resources
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.Properties.Resources.resources
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.csproj.GenerateResource.cache
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.csproj.CopyComplete
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.exe
+D:\PBO\MentalBuddy\MentalBuddy_Belum Fix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.pdb
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Release\MentalBuddy.exe.config
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Release\MentalBuddy.exe
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Release\MentalBuddy.pdb
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyAPI.dll
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyDB.dll
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Release\RestSharp.dll
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyAPI.pdb
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyDB.pdb
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Release\MentalBuddyDB.dll.config
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\bin\Release\RestSharp.xml
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.csprojAssemblyReference.cache
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.Awal.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.CariJadwal.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.CJLokasi.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.CJNama.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.CJProfesi.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.EditPraktik.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscChoosenPsi.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscChosen.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscMenuCapas.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscPost.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.GenDiscMenuPsi.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.HomeCapas.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.HomePsi.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.Komunitas.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.KomunitasShow.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.Login.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.ProfilPsi.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.Properties.Resources.resources
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.csproj.GenerateResource.cache
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.csproj.CopyComplete
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.exe
+D:\PBO\MentalBuddy\MentalBuddy_BelumFix\MentalBuddy\MentalBuddy\obj\Release\MentalBuddy.pdb
